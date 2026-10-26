@@ -27,7 +27,27 @@ this is the first look inside wazuh
 
 <img width="1275" height="725" alt="image" src="https://github.com/user-attachments/assets/474be78e-3507-4f16-9bfc-37406e537a6c" />
 
- 
+ the problem was fixed and i have installed the wazuh agent 
+
+ <img width="1022" height="856" alt="image" src="https://github.com/user-attachments/assets/6545c801-98b9-4ac6-bb2d-6dec8c38c410" />
+
+headed back to ubuntu
+
+<img width="960" height="857" alt="image" src="https://github.com/user-attachments/assets/80c7639e-eca6-4a1c-a28d-4275084bfc3c" />
+
+typed the key and editing the document 
+
+<img width="1023" height="866" alt="image" src="https://github.com/user-attachments/assets/99a0c669-f081-478c-a244-54ca4e24225c" />
+
+there was some erors going on like wazuh didnt start but later i have fixed it now wazuh
+is running smoothly 
+i have added and deleted a file and it registers 
+i have made it to look at my Test folder where it take logs to wazuh 
+
+<img width="1280" height="910" alt="image" src="https://github.com/user-attachments/assets/7ad6f3eb-fff2-48f0-b35d-3bc22ea5f497" />
+
+
+
 
 
 
